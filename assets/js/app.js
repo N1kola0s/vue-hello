@@ -12,7 +12,7 @@ const app = new Vue (
 
             //inserisco le proprietà ed i valori che saranno inseriti nella Dom
 
-            message: 'Hello Vue',
+            message: 'Hello, this is a laptop!',
             url_img: './assets/img/laptop.webp',
             txt_img:'laptop'
 
